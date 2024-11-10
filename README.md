@@ -21,7 +21,7 @@ A simple and elegant web application that helps busy professionals find recipes 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/recipe-ideas.git
+   git clone https://github.com/kishan0101/recipe-ideas.git
    cd recipe-ideas
 
 
@@ -35,23 +35,9 @@ A simple and elegant web application that helps busy professionals find recipes 
    npm start
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Open [https://jmmjjh.csb.app/](https://jmmjjh.csb.app/) to view it in your browser.
 
 ## Project Structure
-
-```
-.
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── App.js           # Main app component
-│   ├── RecipeList.js    # List of recipes based on search
-│   ├── RecipeDetails.js # Detailed recipe view
-│   ├── App.css          # Main styling file
-│   └── index.js         # Entry point
-└── package.json
-```
 
 ## Usage
 
@@ -70,11 +56,13 @@ This application uses TheMealDB API to fetch recipe data. No API key is required
 
 ## Screenshots
 
-### Home Page
-![Home Page](https://path-to-screenshot.png)
+### Home Page ![screenshot-jmmjjh_csb_app-2024_11_10-17_23_25](https://github.com/user-attachments/assets/09205e1b-a3f6-4640-90ad-202442896d4f)
 
-### Recipe Details
-![Recipe Details](https://path-to-screenshot.png)
+![Home Page]
+
+### Recipe Details![screenshot-jmmjjh_csb_app-2024_11_10-17_21_06](https://github.com/user-attachments/assets/ef77b050-a594-4db0-9f20-4919eaf1e791)
+
+![Recipe Details]
 
 ## Contributing
 
@@ -96,9 +84,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [React](https://reactjs.org/)
 - Icons made by [Freepik](https://www.flaticon.com/authors/freepik)
 
----
-
-Feel free to explore and enjoy cooking with **Recipe Ideas**! 🍽️
-```
-
-This README includes project details, installation instructions, usage information, API endpoints, and a brief guide on contributing.
